@@ -7,14 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		75070DD428AC703600C962BE /* styles.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75070DD328AC703600C962BE /* styles.jpeg */; };
+		75070DD628AC716200C962BE /* stylesEdit.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 75070DD528AC716200C962BE /* stylesEdit.jpeg */; };
 		756C0A8028974A40004E91CA /* FigmaDesignApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756C0A7F28974A40004E91CA /* FigmaDesignApp.swift */; };
 		756C0A8228974A40004E91CA /* FigmaDesignDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756C0A8128974A40004E91CA /* FigmaDesignDocument.swift */; };
 		756C0A8428974A40004E91CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756C0A8328974A40004E91CA /* ContentView.swift */; };
 		756C0A8628974A40004E91CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 756C0A8528974A40004E91CA /* Assets.xcassets */; };
 		756C0A8928974A40004E91CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 756C0A8828974A40004E91CA /* Preview Assets.xcassets */; };
+		756C0A9328974BB7004E91CA /* standardGrid.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 756C0A9228974BB7004E91CA /* standardGrid.jpeg */; };
+		756C0A9528974C6D004E91CA /* standardRowsGrid.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 756C0A9428974C6D004E91CA /* standardRowsGrid.jpeg */; };
+		756C0A9728974F10004E91CA /* polygonTool.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 756C0A9628974F10004E91CA /* polygonTool.jpeg */; };
+		757CACF128AF02FC00B967AF /* plugins.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 757CACF028AF02FC00B967AF /* plugins.jpeg */; };
+		757CACF328AF034D00B967AF /* icons8_ios.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 757CACF228AF034D00B967AF /* icons8_ios.jpeg */; };
+		757CACF528AF080300B967AF /* buttonExample.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 757CACF428AF080300B967AF /* buttonExample.jpeg */; };
+		757CACF728AF0BB400B967AF /* ios15_ui_kit.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 757CACF628AF0BB400B967AF /* ios15_ui_kit.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		75070DD328AC703600C962BE /* styles.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = styles.jpeg; sourceTree = "<group>"; };
+		75070DD528AC716200C962BE /* stylesEdit.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stylesEdit.jpeg; sourceTree = "<group>"; };
 		756C0A7C28974A40004E91CA /* FigmaDesign.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FigmaDesign.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		756C0A7F28974A40004E91CA /* FigmaDesignApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigmaDesignApp.swift; sourceTree = "<group>"; };
 		756C0A8128974A40004E91CA /* FigmaDesignDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigmaDesignDocument.swift; sourceTree = "<group>"; };
@@ -22,6 +33,14 @@
 		756C0A8528974A40004E91CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		756C0A8828974A40004E91CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		756C0A8A28974A40004E91CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		756C0A9028974A63004E91CA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		756C0A9228974BB7004E91CA /* standardGrid.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = standardGrid.jpeg; sourceTree = "<group>"; };
+		756C0A9428974C6D004E91CA /* standardRowsGrid.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = standardRowsGrid.jpeg; sourceTree = "<group>"; };
+		756C0A9628974F10004E91CA /* polygonTool.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = polygonTool.jpeg; sourceTree = "<group>"; };
+		757CACF028AF02FC00B967AF /* plugins.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plugins.jpeg; sourceTree = "<group>"; };
+		757CACF228AF034D00B967AF /* icons8_ios.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icons8_ios.jpeg; sourceTree = "<group>"; };
+		757CACF428AF080300B967AF /* buttonExample.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = buttonExample.jpeg; sourceTree = "<group>"; };
+		757CACF628AF0BB400B967AF /* ios15_ui_kit.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ios15_ui_kit.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +57,8 @@
 		756C0A7328974A40004E91CA = {
 			isa = PBXGroup;
 			children = (
+				756C0A9028974A63004E91CA /* README.md */,
+				756C0A9128974AE4004E91CA /* img */,
 				756C0A7E28974A40004E91CA /* FigmaDesign */,
 				756C0A7D28974A40004E91CA /* Products */,
 			);
@@ -70,6 +91,22 @@
 				756C0A8828974A40004E91CA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		756C0A9128974AE4004E91CA /* img */ = {
+			isa = PBXGroup;
+			children = (
+				75070DD528AC716200C962BE /* stylesEdit.jpeg */,
+				757CACF628AF0BB400B967AF /* ios15_ui_kit.jpeg */,
+				757CACF428AF080300B967AF /* buttonExample.jpeg */,
+				757CACF028AF02FC00B967AF /* plugins.jpeg */,
+				757CACF228AF034D00B967AF /* icons8_ios.jpeg */,
+				756C0A9628974F10004E91CA /* polygonTool.jpeg */,
+				75070DD328AC703600C962BE /* styles.jpeg */,
+				756C0A9228974BB7004E91CA /* standardGrid.jpeg */,
+				756C0A9428974C6D004E91CA /* standardRowsGrid.jpeg */,
+			);
+			path = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,7 +168,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				756C0A8928974A40004E91CA /* Preview Assets.xcassets in Resources */,
+				75070DD428AC703600C962BE /* styles.jpeg in Resources */,
+				757CACF328AF034D00B967AF /* icons8_ios.jpeg in Resources */,
+				757CACF728AF0BB400B967AF /* ios15_ui_kit.jpeg in Resources */,
+				757CACF128AF02FC00B967AF /* plugins.jpeg in Resources */,
 				756C0A8628974A40004E91CA /* Assets.xcassets in Resources */,
+				75070DD628AC716200C962BE /* stylesEdit.jpeg in Resources */,
+				756C0A9328974BB7004E91CA /* standardGrid.jpeg in Resources */,
+				756C0A9528974C6D004E91CA /* standardRowsGrid.jpeg in Resources */,
+				757CACF528AF080300B967AF /* buttonExample.jpeg in Resources */,
+				756C0A9728974F10004E91CA /* polygonTool.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
